@@ -8,7 +8,7 @@ import { createDrawerNavigator } from "@react-navigation/drawer";
 function Feed() {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Feed Screen</Text>
+      <Text>Feed Screenn</Text>
     </View>
   );
 }
